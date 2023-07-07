@@ -1,0 +1,117 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f2f2f2;
+  }
+  
+  header {
+    background-color: #007533;
+    color: #fff;
+    padding: 20px;
+  }
+  
+  header h1 {
+    margin: 0;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: #f2f2f2;
+  }
+  
+  nav ul li {
+    display: inline;
+    margin-right: 10px;
+  }
+  
+  nav ul li a {
+    text-decoration: none;
+    color: #333;
+    padding: 5px;
+  }
+  
+  main {
+    margin: 20px;
+  }
+  
+  .hero {
+    background-color: #f2f2f2;
+    padding: 20px;
+  }
+  
+  .donation-options {
+    margin-top: 20px;
+    padding: 20px;
+    background-color: #f2f2f2;
+  }
+  
+  .donation-options h3 {
+    margin: 0;
+  }
+  
+  .donation-options ul {
+    list-style-type: none;
+    padding: 0;
+    margin-top: 10px;
+  }
+  
+  .donation-options li {
+    margin-bottom: 20px;
+  }
+  
+  .donation-options form {
+    margin-top: 10px;
+  }
+  
+  .donation-options label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .donation-options input,
+  .donation-options select {
+    width: 100%;
+    padding: 5px;
+    margin-bottom: 10px;
+  }
+  
+  .donation-options button {
+    background-color: #333;
+    color: #fff;
+    padding: 8px 16px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .other-ways-to-give {
+    margin-top: 20px;
+    padding: 20px;
+    background-color: #f2f2f2;
+  }
+  
+  .other-ways-to-give h3 {
+    margin: 0;
+  }
+  
+  .other-ways-to-give p {
+    margin-bottom: 10px;
+  }
+  
+  .other-ways-to-give ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .other-ways-to-give li {
+    margin-bottom: 5px;
+  }
+  
+  footer {
+    background-color: #007533;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+  }

@@ -1,0 +1,104 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f2f2f2;
+  }
+  
+  header {
+    background-color: #007533;
+    color: #fff;
+    padding: 20px;
+  }
+  
+  header h1 {
+    margin: 0;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: #f2f2f2;
+  }
+  
+  nav ul li {
+    display: inline;
+    margin-right: 10px;
+  }
+  
+  nav ul li a {
+    text-decoration: none;
+    color: #333;
+    padding: 5px;
+  }
+  
+  main {
+    margin: 20px;
+  }
+  
+  .hero {
+    background-color: #f2f2f2;
+    padding: 20px;
+  }
+  
+  .contact-form {
+    margin-top: 20px;
+    padding: 20px;
+    background-color: #f2f2f2;
+  }
+  
+  .contact-form h3 {
+    margin: 0;
+  }
+  
+  .contact-form form {
+    margin-top: 10px;
+  }
+  
+  .contact-form label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .contact-form input,
+  .contact-form textarea {
+    width: 100%;
+    padding: 5px;
+    margin-bottom: 10px;
+  }
+  
+  .contact-form button {
+    background-color: #333;
+    color: #fff;
+    padding: 8px 16px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .contact-info {
+    margin-top: 20px;
+    padding: 20px;
+    background-color: #f2f2f2;
+  }
+  
+  .contact-info h3 {
+    margin: 0;
+  }
+  
+  .contact-info ul {
+    list-style-type: none;
+    padding: 0;
+    margin-top: 10px;
+  }
+  
+  .contact-info li {
+    margin-bottom: 5px;
+  }
+  
+  footer {
+    background-color: #007533;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+  }
